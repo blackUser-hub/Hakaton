@@ -101,7 +101,7 @@ Video File → Audio Extraction → Speech Transcription → Translation → Voi
 
 See Video Translation Tool in action:
 
-[Watch Demo Video](https://github.com/blackUser-hub/Hakaton/screencast.mp4)
+Demo is uploaded in the repository, watch ## screencast.mp4
 
 ## Features
 
