@@ -101,7 +101,11 @@ Video File → Audio Extraction → Speech Transcription → Translation → Voi
 
 See Video Translation Tool in action:
 
-Demo is uploaded in the repository, watch ## screencast.mp4
+
+https://github.com/user-attachments/assets/f6cb49f3-7adc-4548-8feb-07f1267a6432
+
+
+
 
 ## Features
 
